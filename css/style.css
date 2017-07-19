@@ -6,7 +6,7 @@ header {
 	background-color: blue;
 }
 body {
-	background: url('C:/Udacity/movies/eds_testsite/img/ss.png');
+	background: url(../img/Stainless-Steel.png);
 	background-size: cover;
 }
 .picture {
@@ -18,6 +18,5 @@ body {
 }
 
 .topic {
-	padding: 25px;
 	text-align: center;
 }

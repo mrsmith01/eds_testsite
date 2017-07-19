@@ -6,7 +6,7 @@ header {
 	background-color: blue;
 }
 body {
-	background: url(img/ss.png);
+	background: url("img/ss.png");
 	background-size: cover;
 }
 .picture {

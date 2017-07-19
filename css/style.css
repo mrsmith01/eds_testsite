@@ -1,8 +1,23 @@
 h1 {
-	color: red;
+	color: white;
+	text-align: center;
 }
-img {
+header {
+	background-color: blue;
+}
+body {
+	background: url('C:/Udacity/movies/eds_testsite/img/ss.png');
+	background-size: cover;
+}
+.picture {
 	position: relative;
-	max-width: 100%;
+	max-width: 50%;
 	height: auto;
+	padding-right: 400px;
+
+}
+
+.topic {
+	padding: 25px;
+	text-align: center;
 }

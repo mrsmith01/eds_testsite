@@ -6,7 +6,7 @@ header {
 	background-color: blue;
 }
 body {
-	background: url('C:/Udacity/movies/eds_testsite/img/ss.png');
+	background: url('https://mrsmith01.github.io/eds_testsite/img/ss.png');
 	background-size: cover;
 }
 .picture {

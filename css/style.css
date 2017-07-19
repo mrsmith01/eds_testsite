@@ -6,7 +6,7 @@ header {
 	background-color: blue;
 }
 body {
-	background: url('https://github.com/mrsmith01/eds_testsite/blob/master/img/ss.png');
+	background: url(../img/ss.png);
 	background-size: cover;
 }
 .picture {

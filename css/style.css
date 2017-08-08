@@ -6,8 +6,14 @@ header {
 	background-color: blue;
 }
 body {
-	background: url(../img/Stainless-Steel.png);
+	background: url(../img/ss.png);
 	background-size: cover;
+}
+
+video {
+	padding: 5px;
+	height: 700;
+	width: 844;
 }
 .picture {
 	position: relative;

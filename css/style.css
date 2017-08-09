@@ -1,9 +1,10 @@
 h1 {
 	color: white;
 	text-align: center;
-}
+	font-family: 'Georgia';
+	}
 header {
-	background-color: blue;
+	background-color: white;
 }
 body {
 	background: url(../img/ss.png);
